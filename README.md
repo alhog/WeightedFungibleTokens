@@ -1,11 +1,11 @@
 # WeightedFungibleTokens
 
-I. Introduction
+### I. Introduction
    A. Overview of the concept
    B. Motivation and use cases
    C. Key principles and goals
 
-II. Token Representation
+### II. Token Representation
     A. Token structure and composition
        1. Base unit (e.g., weight, volume, quantity)
        2. Quality/grade attributes
@@ -13,7 +13,7 @@ II. Token Representation
     B. Token standards and interoperability
     C. Token creation and minting processes
 
-III. Quality/Grade Assessment
+### III. Quality/Grade Assessment
      A. Defining quality attributes for different asset classes
         1. Commodities (e.g., agricultural products, precious metals)
         2. Collectibles (e.g., art, antiques, trading cards)
@@ -24,7 +24,7 @@ III. Quality/Grade Assessment
         2. Incentive models and tokenomics
         3. Dispute resolution and appeals
 
-IV. Valuation and Pricing
+### IV. Valuation and Pricing
     A. Factors influencing token value
        1. Base unit value (e.g., market prices for commodities)
        2. Quality/grade premiums or discounts
@@ -32,38 +32,38 @@ IV. Valuation and Pricing
     B. Dynamic pricing models and oracles
     C. Pricing transparency and auditability
 
-V. Trading and Exchanges
+### V. Trading and Exchanges
    A. Decentralized exchange architectures
    B. Matching and order book mechanisms
    C. Search and discovery features (filtering by attributes)
    D. Liquidity provisioning and market-making
 
-VI. Use Cases and Applications
+### VI. Use Cases and Applications
     A. Commodity trading and supply chain management
     B. Collectibles and digital asset markets
     C. Real estate and property tokenization
     D. Gaming and virtual economies
     E. Other potential applications
 
-VII. Ecosystem Governance and Sustainability
+### VII. Ecosystem Governance and Sustainability
      A. Token economics and incentive structures
      B. Community governance and decision-making
      C. Regulatory considerations and compliance
      D. Ecosystem growth and adoption strategies
 
-VIII. Technical Implementation
+### VIII. Technical Implementation
       A. Blockchain and distributed ledger technologies
       B. Smart contract design and development
       C. Off-chain data storage and management
       D. Interoperability and integration with existing systems
 
-IX. Roadmap and Future Directions
+### IX. Roadmap and Future Directions
     A. Planned phases and milestones
     B. Potential extensions and enhancements
     C. Challenges and limitations
     D. Research and development areas
 
-X. Conclusion
+### X. Conclusion
    A. Summary of key points
    B. Potential impact and implications
    C. Call to action and next steps
